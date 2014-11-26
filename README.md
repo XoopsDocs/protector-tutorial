@@ -1,0 +1,4 @@
+protector
+=========
+
+XOOPS Protector Module
