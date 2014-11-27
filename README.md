@@ -1,7 +1,7 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# XOOPS Marquee 2.50
+# Module Protector
 #### for XOOPS 2.5.7
   
       
