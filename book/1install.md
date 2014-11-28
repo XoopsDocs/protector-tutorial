@@ -1,6 +1,8 @@
 # 1.0 Install/Uninstall
 
-The Protector module is a "**must have**" module, and therefore it is included with every XOOPS distribution. It should be installed on every Website powered by XOOPS, as it brings additional security protection and logging capabilities to your site.
+The Protector module is a "**must have**" module, and therefore it is included with every XOOPS distribution. 
+
+**It should be installed on every Website powered by XOOPS, as it brings additional security protection and logging capabilities to your site.**
 
 You can install it just like any other XOOPS module from the Admin Control Panel.
 
