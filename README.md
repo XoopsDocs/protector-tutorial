@@ -38,4 +38,4 @@ Protector logs the attacking IPs and offers a range of countermeasures including
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
 * [Filter Plugins](book/8other.md) 
-* [Module Credits](book/9credits.md)
+* [Module Credits, License](book/9credits.md)
