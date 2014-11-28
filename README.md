@@ -14,7 +14,7 @@
 ## Module Purpose 
 
  
-Protector is a very useful module that can help improve the security of your XOOPS site, and is widely regarded as a ‘must have’ module for all XOOPS websites. Protector is capable of defending against:
+Protector is a very useful module that can help improve the security of your [XOOPS](http://www.xoops.org)  site, and is widely regarded as a ‘must have’ module for all XOOPS websites. Protector is capable of defending against:
 -	Some kinds of denial of service (DOS) attacks, bandwidth-hungry crawlers and spambots.
 -	SQL injection, variable contamination, null bytes, session hijacking, and some kinds of cross-site scripting.
 -	Brute force attacks and directory traversals.
