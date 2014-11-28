@@ -73,6 +73,7 @@ The prefix manager lets you i) change the prefix of your database tables by crea
 
 **Changing the database table prefix**
 
+
 ![image005.png](../assets/image005.png)   
 *Figure 5 Prefix Manager Tab*
 
