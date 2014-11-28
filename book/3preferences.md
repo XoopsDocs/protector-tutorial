@@ -17,21 +17,14 @@ The configuration options and recommended settings for Protector are summarised 
 
 |Module configuration option|	Function|
 |---|---|
-Action if a UNION is found	Anti SQL injection measure. Select the action when the UNION syntax of SQL is found. Options are:
-•	None (only logging).
-•	Sanitizing.
-•	Blank screen.
-•	Ban the IP.
-"Sanitizing" means changing "union" to "uni-on". This is the default and recommended option.
-Force intval to variables like id	This measure was to guard against a problem in an older weblog module, which has since been patched.
-
-All requests with names such as "*id" will be treated as integers. This option protects you from some kind of XSS and SQL Injections. It is recommended to turn this option on, but it can cause problems with some modules. The default is ‘off’.
-Protection from Directory Traversals	This setting eliminates ".." from all requests that look like attempted directory traversals. Options are to turn this on (yes) or off (no). The default setting is on.
-Anti Brute Force	Here you can set the number of times you allow guests to try to login with 10 minutes. If someone fails to login in excess of this limit their IP will be banned. This prevents people mounting brute force attacks against logins. The default value is 10.
-Modules out of DoS/Crawler checker	Protector can ban IPs that seem to be mounting DoS attacks or crawlers that consume excessive resources (see below). However, you can exclude individual modules from this protection by entering their directory names here. Separate multiple modules with a | character. This option is useful for things like chat modules.
-Watch time for high loadings (sec)	This value specifies the watch time for high / frequent reloading (F5 attack) and high loading crawlers. The default is 60 seconds.
-Bad counts for F5 Attack	Measure against DoS attacks. This value specifies the number of reloads (within the watch period above) that must be made before an IP is considered to be making a malicious attack. The default 10.
-Action against F5 Attack	What do you want to do when an F5/DoS attack is detected? Options are:<br>•	None (only logging).<br>•	Sleep.<br>•	Blank screen.<br>•	Ban the IP.<br>•	Deny by htaccess (an experimental feature). <br><br>The default response is a blank screen. If you want to use the deny by htaccess feature you need to set XOOPS_ROOT_PATH/.htaccess as writable. However, please note that this entails some risk in itself.
+|Action if a UNION is found|	Anti SQL injection measure. Select the action when the UNION syntax of SQL is found. Options are:<br>•	None (only logging).<br>•	Sanitizing.<br>•	Blank screen.<br>•	Ban the IP.<br><br>"Sanitizing" means changing "union" to "uni-on". This is the default and recommended option.|
+|Force intval to variables like id|	This measure was to guard against a problem in an older weblog module, which has since been patched.<br><br>All requests with names such as "*id" will be treated as integers. This option protects you from some kind of XSS and SQL Injections. It is recommended to turn this option on, but it can cause problems with some modules. The default is ‘off’.|
+|Protection from Directory Traversals|	This setting eliminates ".." from all requests that look like attempted directory traversals. Options are to turn this on (yes) or off (no). The default setting is on.|
+|Anti Brute Force|	Here you can set the number of times you allow guests to try to login with 10 minutes. If someone fails to login in excess of this limit their IP will be banned. This prevents people mounting brute force attacks against logins. The default value is 10.|
+|Modules out of DoS/Crawler checker|	Protector can ban IPs that seem to be mounting DoS attacks or crawlers that consume excessive resources (see below). However, you can exclude individual modules from this protection by entering their directory names here. Separate multiple modules with a &#124; character. This option is useful for things like chat modules.|
+|Watch time for high loadings (sec)|	This value specifies the watch time for high / frequent reloading (F5 attack) and high loading crawlers. The default is 60 seconds.|
+|Bad counts for F5 Attack|	Measure against DoS attacks. This value specifies the number of reloads (within the watch period above) that must be made before an IP is considered to be making a malicious attack. The default 10.|
+|Action against F5 Attack|	What do you want to do when an F5/DoS attack is detected? Options are:<br>•	None (only logging).<br>•	Sleep.<br>•	Blank screen.<br>•	Ban the IP.<br>•	Deny by htaccess (an experimental feature). <br><br>The default response is a blank screen. If you want to use the deny by htaccess feature you need to set XOOPS_ROOT_PATH/.htaccess as writable. However, please note that this entails some risk in itself.
 
 |Module configuration option|	Function|
 |---|---|
