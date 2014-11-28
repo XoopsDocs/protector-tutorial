@@ -7,6 +7,6 @@
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* [Filter Plugins](book/8other.md) //delete, if not used
+* [Filter Plugins](book/8other.md) 
 * [Module Credits](book/9credits.md)
 
