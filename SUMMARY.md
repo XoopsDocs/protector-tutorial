@@ -9,4 +9,4 @@
 * [Templates](book/7templates.md)
 * [Filter Plugins](book/8other.md) 
 * [Module Credits, License](book/9credits.md)
-
+* [About XOOPS CMS](book/10aboutxoops.md)
