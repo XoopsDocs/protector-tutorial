@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module Protector
 #### for XOOPS 2.5.7
   
-![logoModule.png](assets/logoModule.png)
+![logoModule.png](en/assets/logoModule.png)
 
 ## User Manual
  
@@ -23,7 +23,7 @@ Protector is a very useful module that can help improve the security of your [XO
 Protector logs the attacking IPs and offers a range of countermeasures including IP bans, blank screens and automatic sanitisation of attempted injections etc. Protector also evaluates your site for certain vulnerabilities and providing warnings about them through a ‘security advisory’ page, and provides instructions on how to fix them.
 
  
-![image001.png](assets/image001.png)  
+![image001.png](en/assets/image001.png)  
 *Figure 1: Main view of the Protector Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
@@ -38,16 +38,16 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Filter Plugins](book/8other.md) 
-* [Module Credits, License](book/9credits.md)
-* [About XOOPS CMS](book/10aboutxoops.md)
+* [Install/Uninstall](en/book/1install.md)
+* [Administration Menu](en/book/2administration.md)
+* [Preferences](en/book/3preferences.md)
+* [Operating Instructions](en/book/4operations.md)
+* [The User Side](en/book/5userside.md)
+* [Blocks](en/book/6blocks.md)
+* [Templates](en/book/7templates.md)
+* [Filter Plugins](en/book/8other.md) 
+* [Module Credits, License](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
 
 ##License:
 
