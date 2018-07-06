@@ -8,13 +8,13 @@
 
 ![logoModule.png](.gitbook/assets/logomodule.png)
  
-### User Manual
-  
-© 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))   
+ 
+© 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
-
-Protector is a very useful module that can help improve the security of your [XOOPS](http://www.xoops.org) site, and is widely regarded as a ‘must have’ module for all XOOPS websites. Protector is capable of defending against:
+ 
+Protector is a very useful module that can help improve the security of your [XOOPS](http://www.xoops.org)  site, and is widely regarded as a ‘must have’ module for all XOOPS websites. Protector is capable of defending against:
  
 * Some kinds of denial of service \(DOS\) attacks, bandwidth-hungry crawlers and spambots.
 * SQL injection, variable contamination, null bytes, session hijacking, and some kinds of cross-site scripting.
@@ -24,12 +24,12 @@ Protector is a very useful module that can help improve the security of your [XO
 
 Protector logs the attacking IPs and offers a range of countermeasures including IP bans, blank screens and automatic sanitisation of attempted injections etc. Protector also evaluates your site for certain vulnerabilities and providing warnings about them through a ‘security advisory’ page, and provides instructions on how to fix them.
 
-
+ 
 _Figure 1: Main view of the Protector Module \(Admin side\)_
 
 ![image001.png](.gitbook/assets/image001.png)
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/protector)**\)**
 
@@ -53,9 +53,10 @@ Editing the book can be done either by updating the markdown files with a text e
 * [About XOOPS CMS](about-xoops-cms.md)
 
 ### License:
- 
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
