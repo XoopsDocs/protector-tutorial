@@ -1,12 +1,14 @@
-# Table of Content
+# Table of contents
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Filter Plugins](book/8other.md) 
-* [Module Credits, License](book/9credits.md)
+* [Introduction](README.md)
+* [Install/Uninstall](install-uninstall.md)
+* [Administration Menu](administration-menu.md)
+* [Preferences](preferences.md)
+* [Operating Instructions](operating-instructions.md)
+* [The User Side](the-user-side.md)
+* [Blocks](blocks.md)
+* [Templates](templates.md)
+* [Filter Plugins](filter-plugins.md)
+* [Module Credits, License](module-credits-license.md)
+* [About XOOPS CMS](about-xoops-cms.md)
 
